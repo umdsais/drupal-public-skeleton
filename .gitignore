@@ -1,0 +1,14 @@
+#Do not upload files directory
+/files/
+/private/
+/private-files/
+#Do not upload any sql files
+*.sql
+*.sql.gz
+*.mysql.gz
+settings.php 
+# setting.php is being tracked in git repo.
+# to ignore local changes run
+# git update-index --assume-unchanged settings.php
+# This will allow users to edit settings.php for local devlopment
+
