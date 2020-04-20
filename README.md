@@ -8,8 +8,8 @@ Top-level directory layout
 ├── modules                   # downloaded and custom modules
 ├── themes                    # downloaded and custom themes
 ├── config                    # configuration sync files
-├── libraries				  # library files 	
-├── vendor					  # DIT add extra vendor files that are not in the default Drupal core docroot
+├── libraries                 # library files
+├── vendor                    # DIT add extra vendor files that are not in the default Drupal core docroot
 ├── .gitignore                # gitignore file
 └── README.md
 ```
